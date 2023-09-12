@@ -11,3 +11,6 @@ let dados = {
     "idade": 45,
     "signo": "Peixe"
 };
+
+console.log(dados.nome);
+console.table(dados);
