@@ -1,4 +1,4 @@
-import artista  from './modulos/array.js'
+import artista  from './modulos/array.mjs'
 
 
 
