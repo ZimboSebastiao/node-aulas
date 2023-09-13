@@ -8,8 +8,8 @@ function multiplica(valor1, valor2) {
 
 } 
 
-resultadoSoma = soma(10, 50);
-resultadoMultiplica = multiplica(2, 10);
+let resultadoSoma = soma(10, 50);
+let resultadoMultiplica = multiplica(2, 10);
 
 console.log(resultadoSoma);
 console.log(resultadoMultiplica);
