@@ -14,3 +14,12 @@ let dados = {
 
 console.log(dados.nome);
 console.table(dados);
+console.log("========================");
+
+if (media >= 7) {
+    console.log(`O aluno ${aluno} está aprovado`);
+} else {
+    console.log(`O aluno ${aluno} está reprovado`);
+
+}
+console.log("========================");
