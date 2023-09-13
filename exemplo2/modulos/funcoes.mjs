@@ -17,3 +17,9 @@ function subtrai(valor1, valor2) {
 // export default soma;  // Para exportar um único recurso
 
 export {soma, multiplica, divide, subtrai}; // Para exportar diversos recursos
+
+// se desejar exportar de uma maneira que facilite a importação
+// const operacoes = {soma, multiplica, divide, subtrai}
+// export default operacoes;
+
+// IMPORTANTE: se exportar desta maneira, na hora de chamar o recurso, precisaremos usar a sintaxe operacoes.soma, por exemplo
