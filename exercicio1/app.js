@@ -2,8 +2,8 @@ import artista  from './modulos/array.js'
 
 
 
-console.log(artista);
+// console.log(artista);
 
 for (let artistas of artista){
-    console.log(`Artistas: ${artistas}`);
+    console.log(`Artista: ${artistas}`);
 }
